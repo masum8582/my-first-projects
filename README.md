@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masum</h1>
-<h3 align="center">💡 Turning Ideas into Code</h3>
+<h3 align="center">💡 Software Engineering Student | Passionate about Problem Solving & Coding</h3>
 
 - 🌱 I’m currently learning **Python**
 
